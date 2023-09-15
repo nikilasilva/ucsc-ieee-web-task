@@ -98,7 +98,7 @@ h4 {
     position: relative;
 }
 
-@media (max-width: 600px){
+@media screen and (max-width: 1024px){
     .container-fluid{
         padding-top: 20%;
     }
@@ -133,7 +133,7 @@ h4 {
 /* Timeline Section */
 #timelineSection {
     position: relative;
-    padding: 7% 12%;     
+    padding: 7% 12%;   
 }
 
 #timelineSection h2{
@@ -197,9 +197,9 @@ h4 {
     left: -1rem;
 }
 
-@media (max-width: 600px) {
+@media screen and (max-width: 1024px) {
     #timelineSection {
-        margin: 4rem auto;
+        margin: 0 auto;
     }
 
     #timelineSection::after {
