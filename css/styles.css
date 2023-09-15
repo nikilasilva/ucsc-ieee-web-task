@@ -34,8 +34,6 @@ h4 {
 
 .light-colored {
     background-color: #E4F1FF;
-    /* background-color: #E6FFFD; */
-
 }
 
 /* HeroSection */
@@ -109,7 +107,6 @@ h4 {
     }
 }
 
-
 /* Introduction Section */
 #introSection {
     padding: 7% 12%;
@@ -132,7 +129,6 @@ h4 {
     margin-top: 1.5rem;
     font-size: 1.2rem;
 }
-
 
 /* Timeline Section */
 #timelineSection {
@@ -230,7 +226,6 @@ h4 {
     
 }
 
-
 /* Prize Section */
 #prizesSection {
     padding: 7% 12%;
@@ -271,11 +266,9 @@ h4 {
     color: #22668D;
 }
 
-
 /* FAQ Section */
 #faqSection {
     text-align: left;
-    /* width: 70%; */
     padding: 5% 20% 12%;
 }
 
@@ -318,7 +311,6 @@ h4 {
 .accordion-button:not(.collapsed) {
     background-color: transparent;
 }
-
 
 /* Footer */
 footer img {
